@@ -41,3 +41,28 @@ All orders are placed via **WhatsApp** for a simple and personal shopping experi
 ---
 
 ## 🖼️ Project Structure
+
+---
+
+## 📸 Images
+All product images are stored locally inside the `/images` folder and are loaded
+dynamically using JavaScript.
+
+---
+
+## 📩 Contact & Social
+- Instagram: **@houseoftrendiva**
+- WhatsApp: **+91 63698 00112**
+
+---
+
+## 🚀 Purpose of This Repository
+- Official website for House of Trendiva  
+- WhatsApp-based fashion storefront  
+- Easy to update products without a backend  
+- Free, reliable hosting for small business use  
+
+---
+
+© 2026 **House of Trendiva**  
+All rights reserved.
