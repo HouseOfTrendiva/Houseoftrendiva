@@ -1,16 +1,43 @@
-## Hi there 👋
 
-<!--
-**HouseOfTrendiva/Houseoftrendiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# House of Trendiva 👗✨
 
-Here are some ideas to get you started:
+**House of Trendiva** is a women’s western-wear fashion brand focused on trendy,
+affordable styles for modern women.  
+This repository contains the official website for the brand, built as a
+lightweight, mobile-friendly storefront with WhatsApp-based ordering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌸 Product Categories
+- Dresses  
+- Tops  
+- Co-ords  
+- Denim  
+- Party Wear  
+
+---
+
+## 📲 How to Order
+All orders are placed via **WhatsApp** for a simple and personal shopping experience.
+
+👉 WhatsApp: **+91 63698 00112**  
+👉 Browse products → Click **“Order on WhatsApp”** → Chat to confirm size & delivery
+
+---
+
+## 🌐 Live Website
+🔗 https://houseoftrendiva.github.io/Houseoftrendiva/
+
+*(Hosted free using GitHub Pages)*
+
+---
+
+## 🛠️ Tech Stack
+- HTML5  
+- CSS3  
+- JavaScript (Vanilla)  
+- GitHub Pages (Free Hosting)
+
+---
+
+## 🖼️ Project Structure
